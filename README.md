@@ -1,1 +1,1 @@
-# mb2g-alt-jvm-aev
+# mb2g-alt-jvm-groovy-aev
